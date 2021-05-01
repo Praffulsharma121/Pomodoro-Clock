@@ -1,0 +1,73 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	text-align: center;
+	background: #F4BE2C;
+}
+
+header, section, div, hgroup
+{
+	display: block;
+}
+
+#title
+{
+	margin: 20px;
+	color: white;
+	font-family: Phosphate;
+}
+
+#circle
+{
+	margin: 150px auto;
+	padding: 20px;
+	border: 3px solid red;
+	border-radius: 50%;
+	width: 220px; 
+	height: 220px;
+	color: white;
+	text-align: center;
+}
+
+#Time
+{
+	margin-top: 40px;
+	font: 70px solid white;
+	font-family: Arial;
+}
+
+#set
+{
+	margin: 50px;
+	font: 30px solid white;
+}
+
+#buttons
+{
+	font: 30px solid white;
+	color: white;
+	width: 700px;
+	margin-left: 300px;
+
+}
+
+button
+{
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 40px;
+	height: 40px;
+	border: 1px solid black;
+	font: bold 15px Tahoma;
+	border-radius: 10px;
+	background: white;
+}
+
+p 
+{
+	display: inline; 
+}
