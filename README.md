@@ -15,3 +15,17 @@ It is an intentional design choice and the user must press the "start" button to
 
 
 ![Screenshot 2021-05-01 at 9 06 01 PM](https://user-images.githubusercontent.com/63968420/116787348-1ef95980-aac1-11eb-97fc-97e9ff921375.png)
+
+
+- Set the clock manually.
+
+![start](https://user-images.githubusercontent.com/63968420/116807535-4d267a00-ab51-11eb-8acf-76248d4e8538.gif)
+
+
+- Sound alert after Session time ends.
+
+![Screen Recording 2021-05-02 at 2 01 48 PM](https://user-images.githubusercontent.com/63968420/116807259-cde47680-ab4f-11eb-8ebc-7e4cf88c6dcd.gif)
+
+- Sound alert after Break time ends.
+
+![end](https://user-images.githubusercontent.com/63968420/116808270-87921600-ab55-11eb-9127-ee20b6814d9b.gif)
